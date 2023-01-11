@@ -2,14 +2,14 @@
 <br/>
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/avatars/984049075383066664/549687fb38f2b7fdaec1f6860f8e4bc9.webp" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">GameTracker</h3>
   <p align="center">
     ❤️
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Invite »</strong></a>
+    <a href="https://discord.com/api/oauth2/authorize?client_id=984049075383066664&permissions=414464632832&scope=bot%20applications.commands"><strong>Invite »</strong></a>
     <br />
   </p>
 </div>
@@ -17,10 +17,10 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#commands">Commands List</a></li>
-    <li><a href="#termsofservice">Terms of Service</a></li>
-    <li><a href="#privacypolicy">Privacy Policy</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="https://github.com/blu-knite/Game-Tracker/blob/main/README.md#commands">Commands List</a></li>
+    <li><a href="https://github.com/blu-knite/Game-Tracker/blob/main/README.md#terms-of-service">Terms of Service</a></li>
+    <li><a href="https://github.com/blu-knite/Game-Tracker/blob/main/README.md#privacy-policy">Privacy Policy</a></li>
+    <li><a href="https://github.com/blu-knite/Game-Tracker/blob/main/README.md#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -66,4 +66,4 @@ This information is used for the functionality of the Bot and the information is
 
 blu knite#3638 : [@discord](https://discord.com/channels/@me/765878332868132885)
 
-Terms of Service : [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Terms of Service : [Here](https://github.com/blu-knite/Game-Tracker/blob/main/README.md#terms-of-service)
